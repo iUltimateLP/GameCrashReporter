@@ -117,8 +117,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="UploadEndpoint" xml:space="preserve">
+  <data name="StoragePath" xml:space="preserve">
     <value />
-    <comment>The endpoint to upload the crash data to</comment>
+    <comment>Where to store the crashes</comment>
   </data>
 </root>

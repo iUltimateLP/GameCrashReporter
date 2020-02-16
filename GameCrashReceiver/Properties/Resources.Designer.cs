@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GameCrashReporter.Properties {
+namespace GameCrashReceiver.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace GameCrashReporter.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GameCrashReporter.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GameCrashReceiver.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,9 +63,9 @@ namespace GameCrashReporter.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
         /// </summary>
-        internal static string UploadEndpoint {
+        internal static string StoragePath {
             get {
-                return ResourceManager.GetString("UploadEndpoint", resourceCulture);
+                return ResourceManager.GetString("StoragePath", resourceCulture);
             }
         }
     }

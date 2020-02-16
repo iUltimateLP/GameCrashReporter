@@ -1,7 +1,7 @@
-﻿<Application x:Class="GameCrashReporter.App"
+﻿<Application x:Class="DoWCrashReporter.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:GameCrashReporter"
+             xmlns:local="clr-namespace:DoWCrashReporter"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

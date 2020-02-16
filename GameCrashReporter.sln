@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCrashReporter", "GameCrashReporter\GameCrashReporter.csproj", "{2129917D-4F21-408D-B52A-73EDEF310E98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCrashReceiver", "GameCrashReceiver\GameCrashReceiver.csproj", "{DB3DB405-DE4C-4C1E-96A5-23909D66A419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2129917D-4F21-408D-B52A-73EDEF310E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2129917D-4F21-408D-B52A-73EDEF310E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2129917D-4F21-408D-B52A-73EDEF310E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3DB405-DE4C-4C1E-96A5-23909D66A419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3DB405-DE4C-4C1E-96A5-23909D66A419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3DB405-DE4C-4C1E-96A5-23909D66A419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3DB405-DE4C-4C1E-96A5-23909D66A419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
