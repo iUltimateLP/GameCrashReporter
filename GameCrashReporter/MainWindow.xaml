@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DoWCrashReporter"
         mc:Ignorable="d"
-        Title="Days of War Crash Reporter" Height="359" Width="800" WindowStartupLocation="CenterScreen">
+        Title="Game Crash Reporter" Height="359" Width="800" WindowStartupLocation="CenterScreen">
     <Grid Margin="10,10,10,10">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
